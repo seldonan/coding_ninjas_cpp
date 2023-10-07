@@ -1,4 +1,10 @@
-/*Q)Given three values - Start Fahrenheit Value (S), End Fahrenheit value (E) and Step Size (W), you need to convert all Fahrenheit values from Start to End at the gap of W, into their corresponding Celsius values and print the table.*/
+/*Q)Given three values - Start Fahrenheit Value (S), End Fahrenheit value (E) and Step Size (W), you need to convert all Fahrenheit values from Start to End at the gap of W, into their corresponding Celsius values and print the table.
+input and output should be integers.
+constraints:
+0 <= S <= 90
+S <= E <=  900
+0 <= W <= 80 
+*/
 
 #include<iostream>
 using namespace std;
