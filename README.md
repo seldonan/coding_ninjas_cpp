@@ -1,2 +1,2 @@
-# coding_ninjas_cpp
+# problems
 All the solutions of dsa in cpp, coding ninjas
