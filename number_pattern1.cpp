@@ -17,7 +17,7 @@ int main(){
    
    while(i<=N){
 	   int j = 1;
-	   int val = i;
+	   int val = i;  //initial value of each row is the row no. itself
 	   while(j<=i){
 		   cout<<val;
 		   val++;
